@@ -6,7 +6,7 @@ Welcome to my Web Technology lab repository! This project contains a collection 
 
 ## 🚀 Live Demo
 You can view the live interactive pages here:
-👉 **[View Live Site](https://nadia-shahzad.github.io/web-tech-labs/index.html)**
+[View Live Site](https://nadia-shahzad.github.io/web-tech-labs/index.html)
 
 ---
 
